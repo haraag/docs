@@ -1,5 +1,5 @@
 ---
-section: Hjälptexter katalogisering
+section: Generell beskrivning
 title: Relationer till agenter, delar och verk
 order: 34
 date: 2019-02-06
